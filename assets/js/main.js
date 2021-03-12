@@ -583,7 +583,7 @@ $(document).ready(function($){
 			lng:77.671202,
 			icon: 'images/marker-icon.png',
 			infoWindow: {
-				content: '<p>Electronic city, Bangalore</p>'
+				content: '<p>Bangalore</p>'
 			}
 		});
 	}
