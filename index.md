@@ -19,7 +19,7 @@
 - Sniffing system calls(Strace for life!!!)
 
 ## How to work with me?
-If you find know how to improve this:
+If you know how to improve this:
 
 ```console
 root@ubuntu:~# strace -c ls -l /etc > /dev/null
