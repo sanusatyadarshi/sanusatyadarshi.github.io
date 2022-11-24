@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sanu Satyadarshi</h1>
-<h3 align="center">I build software</h3>
+<!-- <h1 align="center">Hi 👋, I'm Sanu Satyadarshi</h1> -->
+<h1 align="center">I build software</h1>
 
 ## Tech that I am currently working on
 
