@@ -29,8 +29,8 @@ My responsibilities include:
 - Hobbyist projects with Raspberry Pi  
 - Sniffing system calls (Strace for life!!!)  
 
-## How to work with me?
 
+## How to work with me?
 If you know how to improve this:
 
 ```console
@@ -68,3 +68,15 @@ root@ubuntu:~# strace -c ls -l /etc > /dev/null
   0.00    0.000000           0         1           execve
 ------ ----------- ----------- --------- --------- ----------------
 100.00    0.021447          20      1040       647 total
+```
+
+> **Exploit Code Not People!**
+
+[//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
+
+ 
+   [Kubernetes]: <https://kubernetes.io/>
+   [Golang]: <https://go.dev/>
+   [AWS]: <https://aws.amazon.com/>
+   [Python]: <https://www.python.org/>
+   [Istio]: <https://istio.io/latest/>
