@@ -1,5 +1,6 @@
 <!-- <h1 align="center">Hi 👋, I'm Sanu Satyadarshi</h1> -->
-<h1 align="center">I build software & lead engineering teams</h1>
+<h1 align="center">I build software</h1>
+
 
 I am an engineering leader focused on building scalable products and platforms for global companies.
 
