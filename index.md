@@ -1,24 +1,36 @@
 <!-- <h1 align="center">Hi 👋, I'm Sanu Satyadarshi</h1> -->
-<h1 align="center">I build software</h1>
+<h1 align="center">I build software & lead engineering teams</h1>
+
+I specialize in architecture, development, and deployment of cloud-native, microservices-based applications. 
+
+Over time, I’ve moved beyond just writing code—I’ve led engineering teams, delivered complex projects, and aligned technology with business goals. I'm currently focused on **engineering leadership**, where I drive outcomes through a mix of engineering depth and people leadership.
+
+I thrive in environments that value engineering excellence, operational discipline, and user empathy. Leading high-performance teams with a strong focus on innovation, quality, and impact is what keeps me motivated.
+
+My responsibilities include:
+- Managing and scaling engineering teams  
+- Technical decision-making and mentoring  
+- Project delivery and stakeholder alignment  
 
 ## Tech that I am currently working on
 
-- [Python] - To automate everything
-- [Golang] - For microservice development
-- [Kubernetes] - To run platforms at scale
-- [AWS] - To run the applications
-- [Istio] - For running Service mesh at scale
+- [Python] – To automate everything  
+- [Golang] – For microservice development  
+- [Kubernetes] – To run platforms at scale  
+- [AWS] – To run the applications  
+- [Istio] – For running Service Mesh at scale  
 
-## Areas of Interest 
+## Areas of Interest
 
-- Highly distributed systems at scale
-- Improving latency and throughput at 4Cs(Cloud, Compute, Container, Code)
-- Infrastructure and application security in both Cloud and Hybrid environments
-- Sensible scaling with operational excellence
-- Hobbyist projects with Raspberry Pi
-- Sniffing system calls(Strace for life!!!)
+- Highly distributed systems at scale  
+- Improving latency and throughput at 4Cs (Cloud, Compute, Container, Code)  
+- Infrastructure and application security in both Cloud and Hybrid environments  
+- Sensible scaling with operational excellence  
+- Hobbyist projects with Raspberry Pi  
+- Sniffing system calls (Strace for life!!!)  
 
 ## How to work with me?
+
 If you know how to improve this:
 
 ```console
@@ -56,15 +68,3 @@ root@ubuntu:~# strace -c ls -l /etc > /dev/null
   0.00    0.000000           0         1           execve
 ------ ----------- ----------- --------- --------- ----------------
 100.00    0.021447          20      1040       647 total
-```
-
-> **Exploit Code Not People!**
-
-[//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
-
- 
-   [Kubernetes]: <https://kubernetes.io/>
-   [Golang]: <https://go.dev/>
-   [AWS]: <https://aws.amazon.com/>
-   [Python]: <https://www.python.org/>
-   [Istio]: <https://istio.io/latest/>
