@@ -1,11 +1,11 @@
 <!-- <h1 align="center">Hi 👋, I'm Sanu Satyadarshi</h1> -->
 <h1 align="center">I build software & lead engineering teams</h1>
 
-I work at the intersection of software engineering, systems thinking, and team leadership. I’ve helped scale platforms, shipped critical systems, and built teams that solve real business problems.
+I am an engineering leader focused on building scalable products and platforms for global companies.
 
-I’m hands-on with architecture and development. But beyond code, I care deeply about how engineering efforts align with product and business outcomes.
+While I stay hands-on with architecture and development, I care just as much about aligning engineering efforts with product and business outcomes.
 
-What drives me is creating high-impact systems *and* the high-performing teams behind them.
+What drives me is creating high-impact systems -  *and* the high-performing teams behind them.
 
 ## What I focus on
 - Building and leading engineering teams  
