@@ -1,16 +1,16 @@
 <!-- <h1 align="center">Hi 👋, I'm Sanu Satyadarshi</h1> -->
 <h1 align="center">I build software & lead engineering teams</h1>
 
-I specialize in architecture, development, and deployment of cloud-native, microservices-based applications. 
+I work at the intersection of software engineering, systems thinking, and team leadership. I’ve helped scale platforms, shipped critical systems, and built teams that solve real business problems.
 
-Over time, I’ve moved beyond just writing code—I’ve led engineering teams, delivered complex projects, and aligned technology with business goals. I'm currently focused on **engineering leadership**, where I drive outcomes through a mix of engineering depth and people leadership.
+I’m hands-on with architecture and development. But beyond code, I care deeply about how engineering efforts align with product and business outcomes.
 
-I thrive in environments that value engineering excellence, operational discipline, and user empathy. Leading high-performance teams with a strong focus on innovation, quality, and impact is what keeps me motivated.
+What drives me is creating high-impact systems *and* the high-performing teams behind them.
 
-My responsibilities include:
-- Managing and scaling engineering teams  
-- Technical decision-making and mentoring  
-- Project delivery and stakeholder alignment  
+## What I focus on
+- Building and leading engineering teams  
+- Architecting cloud-native systems  
+- Bridging product goals with technical strategy  
 
 ## Tech that I am currently working on
 
